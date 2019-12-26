@@ -1,0 +1,27 @@
+.subscribe-box input.minik {
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    padding: 0;
+}
+
+.subscribe-box .form-check {
+    padding-left: 0;
+}
+
+.sidebar-categories {
+    background: transparent;
+}
+
+.sidebar-categories ul li.active>a {
+    font-weight: bold;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #c20a0c;
+    border-color: #c20a0c;
+}
+
+.pagination { padding: 9px 22px 0 0;}
